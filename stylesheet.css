@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(30, 54, 66);
+}
+
+h1 {
+    color: white;
+    font-family: 'Mulish', sans-serif;
+}
+
+h2 {
+    color: #eb7068;
+    font-family: 'Mulish', sans-serif;
+}
+
+p {
+    font-family: 'Mulish', sans-serif;
+    color: wheat;
+    
+}
